@@ -1,1 +1,4 @@
+baseURL = "https://decap-hugo-starter.netlify.app/"
+languageCode = "en-us"
+title = "Decap Hugo Starter"
 theme = "ananke"
